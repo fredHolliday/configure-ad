@@ -22,10 +22,10 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Create a Server with Windows Server 2022.
+- Step 2 Create a Client with Windows 10.
+- Step 3 Set your Windows server DNS to static.
+- Step 4 Join the client, to the domain.
 
 <h2>Deployment and Configuration Steps</h2>
 
